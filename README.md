@@ -1,30 +1,30 @@
-# 🌾 KrishiSeva – Farmer's Assistant
+#  KrishiSeva – Farmer's Assistant
 
 **Empowering farmers with AI-driven insights for better crops and healthier yields.**
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **KrishiSeva (Farmer’s Assistant)** is an AI-powered application designed to help farmers make data-driven agricultural decisions.  
 It integrates **machine learning** and **computer vision** models to recommend optimal crops and detect crop diseases early, enabling timely and informed action.
 
 ---
 
-## 🧠 Features
+##  Features
 
-- 🌱 **Crop Recommendation System (KNN Model)**  
+- **Crop Recommendation System (KNN Model)**  
   Suggests the most suitable crops based on soil nutrients, weather conditions, and environmental factors.  
 
-- 🩺 **Crop Disease Detection (CNN Model)**  
+-  **Crop Disease Detection (CNN Model)**  
   Identifies plant diseases using leaf images, providing early warning and preventive insights.  
 
-- 🔗 **Unified Interface**  
+-  **Unified Interface**  
   Combines both models into one seamless application for real-time agricultural decision-making.  
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Languages:** Python  
 - **Libraries:** TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV, Matplotlib  
@@ -34,7 +34,7 @@ It integrates **machine learning** and **computer vision** models to recommend o
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Input Soil & Weather Data** → Get crop recommendations using KNN model.  
 2. **Upload Crop Image** → CNN model analyzes and detects possible diseases.  
