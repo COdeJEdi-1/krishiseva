@@ -6,7 +6,7 @@
 
 ##  Overview
 
-**KrishiSeva (Farmer’s Assistant)** is an AI-powered application designed to help farmers make data-driven agricultural decisions.  
+**KrishiSeva** is an AI-powered application designed to help farmers make data-driven agricultural decisions.  
 It integrates **machine learning** and **computer vision** models to recommend optimal crops and detect crop diseases early, enabling timely and informed action.
 
 ---
