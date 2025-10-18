@@ -1,4 +1,4 @@
-#  KrishiSeva – Farmer's Assistant
+#  KrishiSeva
 
 **Empowering farmers with AI-driven insights for better crops and healthier yields.**
 
