@@ -42,5 +42,4 @@ It integrates **machine learning** and **computer vision** models to recommend o
 
 ---
 
-## 📂 Project Structure
 
